@@ -1,10 +1,14 @@
-a = 200
-b = 100
+a = 100
+b = 200
 
-if a > b:
+if a >   b:
     print('a is het grootste getal ')
 
-elif a > b:
-    print('a is het kleinste getal:')
+
+
+
+elif a < b:
+    print('a is het kleinste getal')
+
 
 
